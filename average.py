@@ -1,5 +1,7 @@
 # Test program... Just starting with Python, be comprehensive with me ;)
 
+# First, some dictionaries with students
+
 lloyd = {
     "name": "Lloyd",
     "homework": [90.0, 97.0, 75.0, 92.0],
@@ -19,6 +21,7 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 
+# Some functions to calculate the averages.
 
 def average(numbers):
     total = sum(numbers)

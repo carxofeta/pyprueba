@@ -1,5 +1,5 @@
 pyprueba
 ========
 
-Prueba de Git con un pequeño proyecto en Python.
-Nada pretencioso, solo por hacer pruebas con un pequeño programa muy sencillo.
+Prueba de Git con un proyecto en Python, compuesto de varios programitas.
+Nada pretencioso, solo por hacer pruebas con programas muy sencillos.
